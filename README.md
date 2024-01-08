@@ -1,1 +1,1 @@
-Landing page for book swap application
+Landing page for book swap application; built with Bootstrap
